@@ -46,26 +46,6 @@ This is my personal developer portfolio showcasing my skills, projects, and cert
 - **Styling**: Tailwind CSS
 - **Linting**: ESLint
 - **Tools**: Git, GitHub
-
----
-
-## 📁 Folder Structure (Simplified)
-
-├── public/
-│ └── certificate/ # Static files (certificates, etc.)
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── hooks/ # Custom hooks (e.g. useScrollSpy)
-│ ├── utils/ # Utility functions
-│ ├── App.tsx # Main App component
-│ ├── main.tsx # App entry point
-│ └── index.css # Global styles
-├── index.html # HTML template
-├── tailwind.config.js # Tailwind CSS config
-├── vite.config.ts # Vite configuration
-├── tsconfig.json # TypeScript configuration
-
-
 ---
 
 ## ✨ Features
